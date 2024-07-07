@@ -196,14 +196,14 @@ font-size: 30%;
     
     .course {
         display: grid;
-        grid-template-columns: 48rem ;
+        grid-template-columns: 60rem ;
         justify-content: center;
         align-items: center;
         gap: 3rem;
     }
     .tutorial {
-        width: 48rem;
-        height: 20rem;
+        width: 60rem;
+        height: 26rem;
         background-color: rgba(232, 229, 229, 0.258);
         border-radius: 1rem;
     
